@@ -1,11 +1,8 @@
 dj-database-url==0.5.0
 Django==3.2.13
-django-phonenumber-field==6.0.0
-dnspython==2.1.0
 gunicorn==20.1.0
 poetry==1.1.13
 poetry-core==1.0.8
-protobuf==3.6.1
 psycopg2-binary==2.9.1
-whitenoise==6.1.0
+
 
