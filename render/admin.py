@@ -1,3 +1,5 @@
 from django.contrib import admin
+from render.models import Employee, Items
 
-# Register your models here.
+admin.site.register(Employee)
+admin.site.register(Items)
